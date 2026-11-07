@@ -1,5 +1,7 @@
 # AI Workflow Learning Kit
 
+**Explore online:** [Open the AI Workflow Learning Kit website](https://luckygithub777.github.io/ai-workflow-learning-kit/). Discover clear, evidence-led templates for focused work.
+
 Three blank, reusable templates for evidence-based work with human judgment.
 
 - [Decision-Ready Brief](templates/decision-ready-brief-template.md) — frame the decision, evidence and recommendation.
